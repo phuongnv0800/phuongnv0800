@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phương
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning **ASP.NET, Blazor, HTML5, CSS, JS, C#,...**
+- 🌱 I’m currently learning **ASP.NET,SQL Server, Blazor, HTML5, CSS, JS, C#,...**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phuongnv.0800@gmail.com
 
