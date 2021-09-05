@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, C#, SQL Server, Blazor, HTML5, CSS, JS, Bootstrap 5...**
 - 💞️ I’m looking to collaborate on ...
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 Future: Enhance your own experience
 - ⚡ Fun fact: I like to walk, listen to music, and watch film.
 - 📫 How to reach me phuongnv.0800@gmail.com
 ### Connect with me:
