@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Phương 👋
 
-- 🌱 I’m currently learning **ASP.NET, C#, SQL Server, Blazor, HTML5, CSS, JS, Bootstrap 5...**
+- 🌱 I’m currently learning **ASP.NET, Angular, Flutter, Objective C, C#, SQL Server, Blazor, HTML5, CSS, JS, Bootstrap 5...**
 - 💞️ I’m looking to collaborate on ...
 - 🥅 Future: Enhance your own experience
 - ⚡ Fun fact: I like to walk, listen to music, and watch film.
